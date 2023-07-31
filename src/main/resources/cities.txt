@@ -1,0 +1,3 @@
+Cluj|23|Sun|
+Iasi|25|Rain|
+Brasov|23|Sun|
